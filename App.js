@@ -5,7 +5,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Testing SDK53 BETA Version - Canary!</Text>
-      <Text>Testing CSS</Text>
       <StatusBar style="auto" />
     </View>
   );
